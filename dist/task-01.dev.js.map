@@ -1,0 +1,1 @@
+{"version":3,"sources":["task-01.js"],"names":["console","log"],"mappings":";;AAAAA,OAAO,CAACC,GAAR,CAAY,IAAZ","sourcesContent":["console.log('Ok');"],"file":"task-01.dev.js"}
