@@ -23,9 +23,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Администратор\AppData\Roaming\npm\node_modules\prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IT\SkillUp_hw\js-hw-02" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,11 +43,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610306868626</updated>
-      <workItem from="1610306878856" duration="2490000" />
+      <workItem from="1610306878856" duration="4069000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3001" y="274" key="FileChooserDialogImpl" timestamp="1610309429145">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="3001" y="274" key="FileChooserDialogImpl/0.0.3840.1040/3840.0.1920.1040@0.0.3840.1040" timestamp="1610309429145" />
   </component>
 </project>
